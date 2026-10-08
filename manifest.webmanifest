@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Amazon KDP",
+  "short_name": "Amazon KDP",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "icons": [
+    { "src": "icons/kindle.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
